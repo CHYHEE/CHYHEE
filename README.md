@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%0Ayoonhee's%20Github%20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=yoonhee's%20Github)
 
 <!--
 **CHYHEE/CHYHEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
