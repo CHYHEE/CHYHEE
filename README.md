@@ -1,7 +1,5 @@
 
-
-<!--Header-->
-![header](https://capsule-render.vercel.app/api?color=F4BBBB&type=Rounded&height=200&text=YHEE'S%20Github&fontColor=ffffff)
+![git프로필](https://github.com/user-attachments/assets/bebe61d9-b9c1-4dec-9461-2b54d3b52698)
 
 <!--Body-->
 ## 👀 About Me
