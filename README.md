@@ -36,7 +36,8 @@
   
   ## 📖 Contact
   <!--velog-->
-  <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white">
+  [![Velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yhee/posts)
+
 </div>
 <!--
 **CHYHEE/CHYHEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
