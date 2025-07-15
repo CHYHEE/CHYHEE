@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <!--Spring-->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <!--React-->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <!--JSP-->
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=apachetomcat&logoColor=white"/>
   
   ## 🛠️ Tools
   <!--figma-->
@@ -37,6 +41,8 @@
   ## 📖 Contact
   <!--velog-->
   [![Velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yhee/posts)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tssass2017@gmail.com)
+
 
 </div>
 <!--
