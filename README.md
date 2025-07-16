@@ -7,7 +7,7 @@
 #### :busts_in_silhouette: 소통&협업
 #### :bulb: 창의적
 
-## 🧱 Tech Stack
+## 📚 Tech Stack
 <div>
   <!--Java-->
   <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"/>
@@ -45,6 +45,12 @@
 
 
 </div>
+
+## 🤖 Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHYHEE&show_icons=true&theme=dracula)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHYHEE&hide=jupyter%20notebook&layout=compact)](https://github.com/CHYHEE/github-readme-stats)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CHYHEE&repo=AirBnG)](https://github.com/CHYHEE/github-readme-stats) -->
 <!--
 **CHYHEE/CHYHEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
