@@ -1,5 +1,7 @@
 
-![git프로필](https://github.com/user-attachments/assets/bebe61d9-b9c1-4dec-9461-2b54d3b52698)
+![깃허브](https://github.com/user-attachments/assets/980353c2-d717-4b08-9b2a-11573e3a2207)
+
+
 
 <!--Body-->
 ## 👀 About Me
