@@ -48,7 +48,7 @@
 </div>
 
 ## 🤖 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHYHEE&show_icons=true&theme=dracula)<br/>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHYHEE&show_icons=true&theme=dracula)<br/> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHYHEE&hide=jupyter%20notebook&layout=compact)](https://github.com/CHYHEE/github-readme-stats)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CHYHEE&repo=AirBnG)](https://github.com/CHYHEE/github-readme-stats) -->
