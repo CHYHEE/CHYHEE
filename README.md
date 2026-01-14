@@ -1,70 +1,36 @@
+
 ![깃허브](https://github.com/user-attachments/assets/980353c2-d717-4b08-9b2a-11573e3a2207)
 
 
+<div align="center">
 
-<!--Body-->
-## 👀 About Me
-#### :fire: 열정 – 배우고 도전하는 걸 즐깁니다
-#### :busts_in_silhouette: 소통&협업 – 함께 성장하는 개발을 지향합니다
-#### :bulb: 창의적 – 일상 속 불편함을 새로운 시선으로 바라봅니다
-**🍀 일상의 작은 불편을 발견하고, 사람들의 생활을 조금 더 편리하고 따뜻하게 만드는 개발을 좋아합니다!**
+# 문제 해결을 즐기는 백엔드 개발자입니다 👩🏻‍💻
+![Skills](https://skillicons.dev/icons?i=java,js,css,spring,mysql,aws,docker,react,git)
 
+<div align="left">
 
-## 📚 Tech Stack
-<div>
-  <!--Java-->
-  <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"/>
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-  <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <!--CSS3-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <!--Spring-->
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <!--React-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <!--JSP-->
-  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=apachetomcat&logoColor=white"/>
-  
-  ## 🛠️ Tools
-  <!--figma-->
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-  <!--github-->
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> 
-  <!--slack-->
-  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white">
-  <!--jira-->
-  <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white">
-  <!--intellij-->
-  <img src="https://img.shields.io/badge/intellij%20idea-000000?style=flat-square&logo=intellijidea&logoColor=white">
-  <!--vscode-->
-  <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-  
-  ## 📖 Contact
-  <!--velog-->
-  [![Velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yhee/posts)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tssass2017@gmail.com)
+### 🔥 Experience
+- 우송비트 교육과정 (2023-09-01 ~ 2024-02-16)
+  - BIT CERTIFIED WINDOW SOFTWARE (DEVELOPER, EXPERT) 2급 취득
+- 신한DS 금융SW 아카데미 (2025-04-01 ~ 2025-10-01)
+  - 팀 프로젝트 부문 최우수상 🏆
+- AWS 클라우드 교육 과정 수료 (2025.12.15 ~ 2025.12.20)
+  - AWS Cloud Practitioner Essentials
+  - AWS Technical Essentials
+  - Architecting on AWS
+  - Smart City CLF Employment Program (NxtCloud)
+
+### 🖥️ Project
+[AirBnG - 짐 보관 공유 플랫폼](https://github.com/shinhanDsActeam/AirBnG) <br/>
+[TypeMatch - MBTI 기반 소개팅 플랫폼](https://github.com/CHYHEE/TypeMatch) <br/>
+[2D 도면 3D 전환 플랫폼](https://github.com/Exp-Primer-Copilot-Cohort-1/experience-primer-copilot-CHYHEE)
 
 
-</div>
 
-## 🤖 Github Stats
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHYHEE&show_icons=true&theme=dracula)<br/> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHYHEE&hide=jupyter%20notebook&layout=compact)](https://github.com/CHYHEE/github-readme-stats)
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CHYHEE&repo=AirBnG)](https://github.com/CHYHEE/github-readme-stats) -->
 <!--
-**CHYHEE/CHYHEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📮 Contact
+[![Velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yhee/posts)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tssass2017@gmail.com)
 -->
+</div>
+</div>
