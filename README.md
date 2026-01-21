@@ -20,6 +20,10 @@
   - Architecting on AWS
   - Smart City CLF Employment Program (NxtCloud)
 
+### 🏅 Certifications
+- AWS Certified Cloud Practitioner (CLF) – Amazon Web Services (2026.01 ~ 2029.01)
+
+
 ### 🖥️ Project
 [AirBnG - 짐 보관 공유 플랫폼](https://github.com/shinhanDsActeam/AirBnG) <br/>
 [TypeMatch - MBTI 기반 소개팅 플랫폼](https://github.com/CHYHEE/TypeMatch) <br/>
